@@ -47,22 +47,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 
 </div>
-
-###
-
-
 <div align="left">
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhaneshGL&theme=dark&hide_border=false&layout=compact"
-    width="400"
     height="170"
     alt="languages graph"
   />
   <img
     src="https://streak-stats.demolab.com/?user=DhaneshGL&theme=dark&hide_border=false"
-    width="400"
     height="170"
     alt="streak graph"
   />
 </div>
-###
